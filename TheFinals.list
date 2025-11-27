@@ -1,2 +1,5 @@
+PROCESS-NAME,Discovery.exe
+PROCESS-NAME,Discovery-d.exe
+PROCESS-NAME,Discovery-e.exe
 DOMAIN-SUFFIX,embark.games
 DOMAIN-KEYWORD,thefinals
